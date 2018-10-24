@@ -1,0 +1,3 @@
+﻿  RPS Game.cpp
+e:\навчання\дискретка\rps game\rps game\rps game.cpp(38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RPS Game.vcxproj -> E:\Навчання\Дискретка\RPS Game\Debug\RPS Game.exe

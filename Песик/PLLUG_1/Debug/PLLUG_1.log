@@ -1,0 +1,5 @@
+﻿  PLLUG_1.cpp
+e:\навчання\дискретка\песик\pllug_1\pllug_1.cpp(33): warning C4101: 'map': unreferenced local variable
+e:\навчання\дискретка\песик\pllug_1\pllug_1.cpp(107): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\навчання\дискретка\песик\pllug_1\pllug_1.cpp(225): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PLLUG_1.vcxproj -> E:\Навчання\Дискретка\Песик\Debug\PLLUG_1.exe
